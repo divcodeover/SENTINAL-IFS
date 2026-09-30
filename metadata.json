@@ -1,0 +1,6 @@
+{
+  "name": "SentinelFS - Cyber Security File Manager",
+  "description": "An advanced, zero-execution cybersecurity file manager and static analysis workstation for safe inspection, cryptographic verification, entropy calculation, and triage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
